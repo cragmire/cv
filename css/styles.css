@@ -6,6 +6,11 @@ h1{
   color: #66bfbf;
 }
 
+
+h1:hover{
+  border-radius: 100%;
+}
+
 h3{
   color: #66bfbf;
 }
@@ -19,9 +24,5 @@ hr {
 }
 
 img{
-  border-radius: 100%;
-}
-
-img:hover{
   border-radius: 100%;
 }
