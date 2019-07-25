@@ -6,9 +6,8 @@ h1{
   color: #66bfbf;
 }
 
-
 h1:hover{
-  border-radius: 100%;
+  background-color: gold;
 }
 
 h3{
