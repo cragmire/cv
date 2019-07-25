@@ -17,3 +17,11 @@ hr {
   border-width: 5px;
   width: 5%;
 }
+
+img{
+  border-radius: 100%;
+}
+
+img:hover{
+  border-radius: 100%;
+}
